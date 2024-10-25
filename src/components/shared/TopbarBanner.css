@@ -1,0 +1,5 @@
+.bg-topbar-image {
+  background-image: url("/topabrBanner.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
